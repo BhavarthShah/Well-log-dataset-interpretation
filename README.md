@@ -2,7 +2,7 @@
 
 
 ## Objective
-The objective of this project is to demonstrate how quick and flexible the visualization of well-logs can be done using Python. The libraries used for this code are NumPy, Pandas and Matplotlib.
+The objective of this project is to demonstrate how quick and flexible the interpretation of well-logs can be done using Python. The libraries used for this code are NumPy, Pandas and Matplotlib. 
 
 
 ## Data Source
