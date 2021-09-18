@@ -18,6 +18,8 @@ This is a well log file which contains approximately 8000 lines of data containi
 ### Purpose
 The use of this open-source code is _free_ for any academic purpose with appropriate citation of the repository and author. Feel free to fork the repository and make edits as per your own requirements.
 
+![image](https://user-images.githubusercontent.com/21367526/133887737-92fe1433-4aa6-4efc-b54f-f771534320d3.png)
+
 
 ### Acknowledgements
 A very thank to KGS (Kansas Geological Survey) to provide such a huge dataset for public use!
