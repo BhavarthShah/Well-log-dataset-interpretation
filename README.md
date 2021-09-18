@@ -1,8 +1,8 @@
-# Well-log-visualization
+# Well-log-interpretation
 
 
 ## Objective
-The objective of this project is to demonstrate how quick and flexible the visualization of well-logs can be done using Python. The libraries used for this code are NumPy, Pandas and Matplotlib.
+The objective of this project is to demonstrate how quick and flexible the interpretation of well-logs can be done using Python. The libraries used for this code are NumPy, Pandas and Matplotlib. 
 
 
 ## Data Source
@@ -16,7 +16,7 @@ This is a well log file which contains approximately 8000 lines of data containi
 
 
 ### Purpose
-The use of this open-source code is _free_ for any academic purpose with appropriate citation of the repository and author. Feel free to fork the repository and make edits as per your own requirement.
+The use of this open-source code is _free_ for any academic purpose with appropriate citation of the repository and author. Feel free to fork the repository and make edits as per your own requirements.
 
 
 ### Acknowledgements
