@@ -16,7 +16,7 @@ This is a well log file which contains approximately 8000 lines of data containi
 
 
 ### Purpose
-The use of this open-source code is _free_ for any academic purpose with appropriate citation of the repository and author. Feel free to fork the repository and make edits as per your own requirement.
+The use of this open-source code is _free_ for any academic purpose with appropriate citation of the repository and author. Feel free to fork the repository and make edits as per your own requirements.
 
 
 ### Acknowledgements
