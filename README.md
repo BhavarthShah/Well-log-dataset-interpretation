@@ -4,6 +4,10 @@
 ## Objective
 The objective of this project is to demonstrate how quick and flexible the interpretation of well-logs can be done using Python. The libraries used for this code are NumPy, Pandas and Matplotlib. 
 
+![image](https://user-images.githubusercontent.com/21367526/133887737-92fe1433-4aa6-4efc-b54f-f771534320d3.png)
+
+### Purpose
+The use of this open-source code is _free_ for any academic purpose with appropriate citation of the repository and author. The source code can be further generalized to other well logs and large datasets. Feel free to fork the repository and make edits as per your own requirements.
 
 ## Data Source
 The log dataset has been taken from Kaggle. The reference to the original dataset can be found here:
@@ -13,12 +17,6 @@ If the user does reuse or redistribute information contained on this site, the u
 
 ### Content
 This is a well log file which contains approximately 8000 lines of data containing data of Resistivity, Spontaneous Potential, Gamma ray, Bulk density, Neutron and density porosity data. The data can be used to experiment and train small deep learning models, which can further be transferred to big datasets.
-
-
-### Purpose
-The use of this open-source code is _free_ for any academic purpose with appropriate citation of the repository and author. The source code can be further generalized to other well logs and large datasets. Feel free to fork the repository and make edits as per your own requirements.
-
-![image](https://user-images.githubusercontent.com/21367526/133887737-92fe1433-4aa6-4efc-b54f-f771534320d3.png)
 
 
 ### Acknowledgements
